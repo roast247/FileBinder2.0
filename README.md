@@ -1,5 +1,5 @@
-<h1 align="center">Roasting File Binder</h1>
-<h4 align="center"> A very simple File Binder</h4>
+<h1 align="center">Roasting File Binder 2.0</h1>
+<h4 align="center"> A very simple Multi File Binder</h4>
 
 <h4 align="center">
 You will need to install the krypton component system into VS, but if not, the files are already created for you to use the File Binder. If you decide to edit the program and build the solution it will pop out the exe and a dll file. If you want it to only have the exe file, you will need an external program called ILMerge which will allow you to bind the exe and dll files together. The krypton pack is here https://github.com/ComponentFactory/Krypton and the ILMerge Program is here https://wvd-vegt.bitbucket.io/ilmergegui.html
