@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31019.35
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Roasting File Binder 2.0", "Roasting File Binder 2.0.vbproj", "{41BDC9CB-163C-436C-896E-1F4743260FC7}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Stub", "Stub\Stub\Stub.vbproj", "{5416DEFD-DE01-436B-B79C-096853405EC3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{41BDC9CB-163C-436C-896E-1F4743260FC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41BDC9CB-163C-436C-896E-1F4743260FC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41BDC9CB-163C-436C-896E-1F4743260FC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41BDC9CB-163C-436C-896E-1F4743260FC7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5416DEFD-DE01-436B-B79C-096853405EC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5416DEFD-DE01-436B-B79C-096853405EC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5416DEFD-DE01-436B-B79C-096853405EC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5416DEFD-DE01-436B-B79C-096853405EC3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A090BAFA-29D7-488A-A595-859C1D069E61}
+	EndGlobalSection
+EndGlobal
